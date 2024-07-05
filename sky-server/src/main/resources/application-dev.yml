@@ -9,8 +9,8 @@ sky:
 
   alioss:
     endpoint: oss-cn-hongkong.aliyuncs.com
-    access-key-id: LTAI5tCHgwG6i8URsfhtokT4
-    access-key-secret: SG0Xqqq81IlV3OfrX0S7lVWJK6qbGE
+    access-key-id: *
+    access-key-secret: *
     bucket-name: ck-sky-take-out
 
   redis:
